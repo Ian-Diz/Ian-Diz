@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ian Dizney</h1>
 <h3 align="center">Full Stack Engineer / React Developer from the United States</h3>
 
-- 🔭 I’m currently working on **Learning SQL**
+- 🔭 I’m currently working on **Learning SQL** and **Java**
 
 - 🌱 I’m currently learning **SQL from TripleTen's course.**
 
