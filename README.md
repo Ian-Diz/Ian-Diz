@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ian Dizney</h1>
 <h3 align="center">Full Stack Engineer / React Developer from the United States</h3>
 
-- 🔭 I’m currently working on an Externship at Ex Synthesis as well as a couple personal projects.
+- 🔭 I’m currently working on various web apps for ProfessorAI.
 
 - 🌱 I’m currently learning **SQL and Java.**
 
